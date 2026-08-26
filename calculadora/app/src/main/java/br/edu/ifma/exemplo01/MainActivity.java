@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public void clickButton1(View v){
         Log.d("Exemplo01","Activity1-Clicou botão proximo");
 
-        EditText editText=(EditText) findViewById(R.id.editText1);
+        EditText editText=(EditText) findViewById(R.id.buttonDivision);
 
         Intent intent=new Intent(this,SecondActivity.class);
         intent.putExtra("parametro1", editText.getText().toString());

@@ -7,28 +7,163 @@
     android:padding="20dp"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:onClick="clickButton1"
-        android:text="@string/button1Label"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText1" />
 
-    <EditText
-        android:id="@+id/editText1"
-        android:layout_width="0dp"
+    <Button
+        android:id="@+id/buttonSeven"
+        android:layout_width="180px"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:minHeight="50dp"
-        android:text="@string/app_name"
-        app:layout_constraintBottom_toTopOf="@+id/button1"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="4dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="7"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        tools:layout_editor_absoluteY="249dp" />
+
+    <Button
+        android:id="@+id/buttonFour"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="4"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="317dp" />
+
+    <Button
+        android:id="@+id/buttonOne"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="1"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="385dp" />
+
+    <Button
+        android:id="@+id/buttonTwo"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="2"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="385dp" />
+
+    <Button
+        android:id="@+id/buttonZero"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="0"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="456dp" />
+
+    <Button
+        android:id="@+id/buttonThree"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="3"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="386dp" />
+
+    <Button
+        android:id="@+id/buttonFive"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="5"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="317dp" />
+
+    <Button
+        android:id="@+id/buttonSix"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:scrollbarDefaultDelayBeforeFade="400"
+        android:text="6"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="318dp" />
+
+    <Button
+        android:id="@+id/buttonEigth"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:text="8"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <Button
+        android:id="@+id/buttonNine"
+        android:layout_width="180px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:text="9"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="251dp" />
+
+    <Button
+        android:id="@+id/buttonDivision"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:text="/"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <Button
+        android:id="@+id/buttonMultiply"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:text="x"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="277dp" />
+
+    <Button
+        android:id="@+id/buttonMinus"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="276dp"
+        android:text="-"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="388dp" />
+
+    <Button
+        android:id="@+id/buttonPlus"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="276dp"
+        android:text="+"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="458dp" />
+
+    <Button
+        android:id="@+id/buttonResult"
+        android:layout_width="930px"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:text="="
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="526dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
