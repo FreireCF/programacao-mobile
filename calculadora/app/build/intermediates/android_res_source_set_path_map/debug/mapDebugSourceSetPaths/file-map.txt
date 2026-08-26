@@ -1,0 +1,8 @@
+br.edu.ifma.exemplo01.app-pngs-0 /home/clecio/faculdade/6periodo/pdm/calculadora/app/build/generated/res/pngs/debug
+br.edu.ifma.exemplo01.app-updated_navigation_xml-1 /home/clecio/faculdade/6periodo/pdm/calculadora/app/build/generated/updated_navigation_xml/debug
+br.edu.ifma.exemplo01.app-packageDebugResources-2 /home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+br.edu.ifma.exemplo01.app-packageDebugResources-3 /home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+br.edu.ifma.exemplo01.app-debug-4 /home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/merged_res/debug/mergeDebugResources
+br.edu.ifma.exemplo01.app-debug-5 /home/clecio/faculdade/6periodo/pdm/calculadora/app/src/debug/res
+br.edu.ifma.exemplo01.app-main-6 /home/clecio/faculdade/6periodo/pdm/calculadora/app/src/main/res
+gradleHome-0 /home/clecio/.gradle

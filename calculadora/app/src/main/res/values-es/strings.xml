@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exemplo01</string>
+    <string name="activity1Label">Actibiti 1</string>
+    <string name="activity2Label">Actibiti 2</string>
+    <string name="button1Label">Prorrrimo</string>
+    <string name="button2Label">Volver</string>
+</resources>
