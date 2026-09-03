@@ -9,8 +9,8 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id button2
-id buttonDivision
-id buttonEigth
+id buttonDivide
+id buttonEight
 id buttonFive
 id buttonFour
 id buttonMinus
@@ -24,6 +24,7 @@ id buttonSix
 id buttonThree
 id buttonTwo
 id buttonZero
+id numberDisplay
 id textView1
 layout activity_main
 layout activity_second

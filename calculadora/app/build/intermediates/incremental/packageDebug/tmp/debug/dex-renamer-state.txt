@@ -1,4 +1,4 @@
-#Wed Aug 26 09:52:11 GMT-03:00 2026
+#Thu Aug 27 09:10:07 GMT-03:00 2026
 base.0=/home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/clecio/faculdade/6periodo/pdm/calculadora/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
